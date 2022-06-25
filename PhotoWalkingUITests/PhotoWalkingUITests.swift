@@ -1,6 +1,5 @@
 //
 //  PhotoWalkingUITests.swift
-//  PhotoWalkingUITests
 //
 //  Created by Paul Soto on 24/6/22.
 //

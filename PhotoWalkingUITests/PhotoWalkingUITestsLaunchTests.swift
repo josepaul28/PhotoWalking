@@ -1,6 +1,5 @@
 //
 //  PhotoWalkingUITestsLaunchTests.swift
-//  PhotoWalkingUITests
 //
 //  Created by Paul Soto on 24/6/22.
 //
@@ -8,7 +7,6 @@
 import XCTest
 
 class PhotoWalkingUITestsLaunchTests: XCTestCase {
-
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
     }
