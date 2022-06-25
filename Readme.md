@@ -10,7 +10,7 @@ If the user only give's the 'whenInUse' permission, he will see another message 
 
 When the user taps the start button, the app will fetch a first image based on the location of the user from the Flickr API, and then will do the same when we get a new location greater than o equal to a distance of 100 meters.
 
-If we get a coincidence from the Flickr API, and image does not already exist, the object is saved in CoreData so you can kill the app and when you come back your images will still there.
+If we get a coincidence from the Flickr API, and the image does not already exist, the object is saved in CoreData so you can kill the app and when you come back your images will still there.
 
 ## To improove 
 
